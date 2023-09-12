@@ -1,12 +1,15 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Cheng How</h1>
-<h3 align="center">An engineering project manager with data analytics skills that plan to switch to the tech industry</h3>
+<h1 align="left">Hi 👋, I'm Cheng How</h1>
+<h3 align="left">An engineering project manager with data analytics skills that plans to switch to the tech industry</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenghow22&label=Profile%20views&color=0e75b6&style=flat" alt="chenghow22" /> </p>
 
+<!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chenghow22" alt="chenghow22" /></a> </p>
+-->
 
 - 📄 Know about my experiences [https://flowcv.com/resume/f38uh1j5kn](https://flowcv.com/resume/f38uh1j5kn)
+- My latest project:  [https://flowcv.com/resume/f38uh1j5kn](https://github.com/chenghow22/buzzmeter) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
